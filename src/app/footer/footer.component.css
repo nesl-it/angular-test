@@ -1,0 +1,19 @@
+
+.container-fluid{
+    background-color: rgb(33, 25, 83);
+    height: 4rem;
+}
+button{
+    width: 99%;
+    height: 99%;
+    margin-top: 0.7rem;
+    outline: none;
+    border: 1px solid rgba(214, 214, 214, 0.651);
+    background-color: rgb(33, 25, 83);
+    border-radius: 0.4rem;
+
+    color: rgba(255, 255, 255, 0.61);
+}
+.noborder{
+    border: none;
+}

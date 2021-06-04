@@ -1,0 +1,23 @@
+
+nav{
+    color: white ;
+    background-color: gray;
+}
+li a{
+    color: white !important  ;
+}
+.Logo img{
+    height: 3.5rem;
+    width: 5rem;
+   
+}
+button{
+    color: red;
+}
+.logoimage{
+    color: white;
+}
+
+.Logo label{
+    margin-left: -1rem;
+}

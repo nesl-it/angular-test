@@ -1,0 +1,81 @@
+.container-fluid{
+    width: 60rem;
+}
+.searchcol{
+    text-align: right;
+}
+.searchcol button{
+    background-color: rgb(243, 122, 122);
+    color: white ;
+    border: none;
+    outline: none;
+    border-radius: 0.2rem;
+    margin-left: 0.4rem;
+    height: 2rem;
+    width: 2rem;
+}
+.searchcol input{
+    height: 2rem;
+    width: 12rem;
+    border: 1px solid gray;
+    outline: none;
+    border-radius: 0.2rem;
+    text-align: right;
+    background: rgb(243, 243, 243);
+    padding-right: 1rem;
+    
+}
+.selectcol label{
+
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.imagesselectrow{
+    height: 25rem;
+}
+.uploadimagebtncol{
+    text-align: center;
+    width: 100%;
+
+}
+.imagesselectrow{
+    background: rgb(243, 243, 243);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.uploadimagebtncol button{
+    height: 2.25rem;
+    width: 9rem;
+    background-color: rgb(80, 80, 238);
+    color: white ;
+    border: none;
+    outline: none;
+    border-radius: 0.4rem;
+}
+
+
+
+/* card css */
+.cardcol{
+    margin-left: 0;
+    padding-left: 0;
+    cursor: pointer;
+    background-color: white;
+    margin-top: 1rem;
+    border-radius: 0.2rem;
+   
+}
+.cardcol img{
+    padding: 0.5rem;
+    height: 8.5rem;
+    width: 99%;
+}
+.cardcol label{
+    margin-left: 1rem;
+    font-size: 0.7rem;
+}
+
+
+
+
